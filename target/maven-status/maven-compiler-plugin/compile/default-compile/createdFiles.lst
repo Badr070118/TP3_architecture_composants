@@ -1,0 +1,8 @@
+ma\formation\datarest\repositories\ArticleRepository.class
+ma\formation\datarest\DataRestApplication.class
+ma\formation\datarest\entities\Article.class
+ma\formation\datarest\entities\Categorie$CategorieBuilder.class
+ma\formation\datarest\entities\Article$ArticleBuilder.class
+ma\formation\datarest\entities\Categorie.class
+ma\formation\datarest\projections\ArticleDTO.class
+ma\formation\datarest\repositories\CategorieRepository.class
